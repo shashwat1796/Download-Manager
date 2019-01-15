@@ -1,0 +1,2 @@
+DownloadsTableModel
+DownloadsTableModel$getColumnClass
